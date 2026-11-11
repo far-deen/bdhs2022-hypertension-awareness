@@ -48,3 +48,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# DHS data: do not share
+*.DTA
+*.dta
+*.csv
+*.xlsx
+*.zip
+data/
