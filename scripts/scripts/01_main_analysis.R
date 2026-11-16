@@ -151,7 +151,7 @@ print(flow)
 
 
 # Build on all measured adults, then subset to hypertensive
-# (sub setting the design keeps standard errors correct)
+# (subsetting the design keeps standard errors correct)
 
 
 adults = dat %>% filter(measured)
